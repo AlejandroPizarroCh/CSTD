@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    background-color: pink;
+}
+
+p.estilote{
+    color: red;
+}
+
+.estilito{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    background-color: blueviolet;
+}
+
+#parrafito{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+}
