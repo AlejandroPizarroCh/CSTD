@@ -20,3 +20,10 @@ function boton3() {
     //podemos acceder a un elemento especifico por medio de id
     document.getElementById("parrafito").innerHTML = "<h1>cambie para siempre...</h1>";
 }
+
+function cambiarDatoDeInput(){
+    ejemplito = document.getElementById("textito").value; 
+    alert(ejemplito); 
+    document.getElementById("textito").value = "Hola desde JS!";
+
+}

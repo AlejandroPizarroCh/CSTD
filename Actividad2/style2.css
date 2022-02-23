@@ -1,0 +1,19 @@
+body{background-image: url("./dancing-bailando.gif");
+    background-repeat: repeat; 
+}
+
+.bienvenida {
+    font-family: 'Courier New', Courier, monospace;  
+    color: white;
+    background-color: black;
+    font-size: 500%;
+    text-align: center;
+}
+
+#nombres {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: blueviolet;
+    font-size: 200%;
+    text-align: center;
+}
