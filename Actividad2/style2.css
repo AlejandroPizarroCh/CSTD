@@ -17,3 +17,12 @@ body{background-image: url("./dancing-bailando.gif");
     font-size: 200%;
     text-align: center;
 }
+
+.texto {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    color: floralwhite;
+    background-color: forestgreen;
+    font-size: 200%;
+    text-align: center ;
+
+}
